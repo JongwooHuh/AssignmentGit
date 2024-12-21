@@ -5,7 +5,10 @@ public class A {
 		System.out.println("Software Engineering");
 		System.out.println("github assignment");
 		System.out.println("create branches");
-		
+		B b = new B();
+		b.sayBye("Semester");
+		C c = new C();
+		c.Grade("A+");
 	}
 
 }
